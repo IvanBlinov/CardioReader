@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Тест Bluetooth</string>
+    <string name="title_activity_main">Тест bluetooth</string>
+    <string name="title_make_discoverable">Сделать доступным</string>
+    <string name="title_discover_devices">Найти устройста</string>
+    <string name="title_tap_to_connect">Устройства найдены. Выберите устройство для подключения.</string>
+    <string name="prompt_enter_message">Введите сообщение</string>
+    <string name="title_send_message">Отправить сообщение</string>
+    <string name="title_message_for_device">Сообщение для отправки выбранному устройству</string>
+    <string name="title_message_received">Полученное сообщение</string>
+
+</resources>
